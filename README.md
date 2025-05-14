@@ -14,7 +14,7 @@ A Django REST API for managing stock trades with JWT authentication.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/alitpani/TradeApp.git
 cd stocktrades
 ```
 
